@@ -1,0 +1,6 @@
+#define SDL_REVISION "@43731479f9fa870eec31a9c8686f1df088c0fda5"
+#define SDL_REVISION_NUMBER 0
+
+#ifndef SDL_REVISION
+#define SDL_REVISION ""
+#endif
